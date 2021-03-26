@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agnieszka, @agnieszka-web
+- 👋 Hi, I’m Agnieszka, github.com/agnieszka-web
 - 👀 I’m interested in JavaScript, HTML, SQL, Python
 - 🌱 I’m currently a data analytics bootcamp student at University of Toronto. 
 - 💞️ I’m looking to collaborate on beginners data analytics projects to gain programming knowledge and experience.  
